@@ -10,7 +10,8 @@ Hosted on: https://ykeanu.github.io/LA-Bus-Scheduler/
 
 ```
 1. Type in the name of your bus.
-2. As well as the time of the first bus (military time), plus the frequency.
+2. Determine the time of arrival for the first bus (in military time), 
+   as well as the frequency.
 3. Click submit to add to your list.
 4. Reference and never be late again!
 ```
