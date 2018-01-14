@@ -24,7 +24,7 @@ Hosted on: https://ykeanu.github.io/LA-Bus-Scheduler/
 
 ## Authors
 
-* **Ysrael (Izzy) Hernandez** - *Initial work* - [Izzy Keanu](https://github.com/ykeanu)
+* **Ysrael (Izzy) Hernandez** - [Izzy Keanu](https://github.com/ykeanu)
 
 ## Acknowledgments
 
